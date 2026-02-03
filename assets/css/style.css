@@ -101,10 +101,6 @@ z-index:998;
 right:0;
 }
 
-.nav-mobile a{
-font-size:18px;
-}
-
 /* HERO */
 .hero{
 min-height:100vh;
@@ -123,7 +119,6 @@ max-width:900px;
 .hero h1{
 font-size:clamp(28px,5vw,54px);
 margin-bottom:20px;
-line-height:1.2;
 }
 
 .hero-sub{
@@ -144,7 +139,6 @@ border-radius:var(--radius);
 font-weight:600;
 transition:var(--transition);
 display:inline-block;
-text-align:center;
 }
 
 .primary{
@@ -161,7 +155,6 @@ color:var(--accent);
 transform:translateY(-3px);
 }
 
-/* FOOTER */
 footer{
 padding:30px 0;
 text-align:center;
