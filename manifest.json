@@ -1,0 +1,8 @@
+{
+"name":"Суспільний Центр Дії",
+"short_name":"СЦД",
+"start_url":"/index.html",
+"display":"standalone",
+"background_color":"#050A14",
+"theme_color":"#050A14"
+}
